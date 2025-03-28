@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nej11
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c
 - 📫 How to reach me nidhirajiv2010@gmail.com
 
 <!---
